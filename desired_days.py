@@ -35,4 +35,12 @@ sys.exit(0)
 
 
 
-  
+#output example
+'''
+[root@4a178e708f64 fun]# ./desired_days.py Thu 
+Next Thu is 2019-04-11
+2019-04-11
+2019-04-18
+2019-04-25
+'''
+[root@4a178e708f64 fun]#
