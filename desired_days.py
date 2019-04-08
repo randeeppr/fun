@@ -1,4 +1,8 @@
 #!/usr/bin/python
+#
+# This program prints the desired day(s) in between start date and end date
+#
+
 import datetime,sys,getopts
 
 def getDesiredDay(start_date,end_date,desired_day):
